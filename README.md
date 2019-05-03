@@ -1,2 +1,2 @@
 # KKplot
-KKplot PyQt5
+A software for reading from K+K frequency counter and plotting Allan deviation online.
